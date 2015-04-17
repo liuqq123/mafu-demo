@@ -6,10 +6,19 @@
         <artifactId>mafu-parent</artifactId>
         <groupId>com.mafu</groupId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../mafu-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <version>1.0-SNAPSHOT</version>
 
     <artifactId>mafu-design</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
+    </dependencies>
 
 
 </project>

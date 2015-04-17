@@ -23,7 +23,6 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="mafu-design" />
-        <module name="mafu-parent" />
       </profile>
     </annotationProcessing>
   </component>

@@ -11,6 +11,7 @@
         <module>mafu-parent</module>
         <module>mafu-design</module>
         <module>mafu-js</module>
+        <module>mafu-java</module>
     </modules>
     <packaging>pom</packaging>
 

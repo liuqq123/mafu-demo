@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mafu-demo.iml" filepath="$PROJECT_DIR$/mafu-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mafu-design/mafu-design.iml" filepath="$PROJECT_DIR$/mafu-design/mafu-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mafu-java/mafu-java.iml" filepath="$PROJECT_DIR$/mafu-java/mafu-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/mafu-js/mafu-js.iml" filepath="$PROJECT_DIR$/mafu-js/mafu-js.iml" />
       <module fileurl="file://$PROJECT_DIR$/mafu-parent/mafu-parent.iml" filepath="$PROJECT_DIR$/mafu-parent/mafu-parent.iml" />
     </modules>

@@ -12,6 +12,7 @@
         <module>mafu-design</module>
         <module>mafu-js</module>
         <module>mafu-java</module>
+        <module>mafu-zk</module>
     </modules>
     <packaging>pom</packaging>
 

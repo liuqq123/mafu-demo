@@ -3,6 +3,9 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mafu-zk" />
+  </component>
   <component name="IdProvider" IDEtalkID="230BC7EDAFFABF96484A7D1570C31C95" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">

@@ -4,6 +4,7 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mafu-spring" />
     <file type="web" url="file://$PROJECT_DIR$/mafu-web" />
     <file type="web" url="file://$PROJECT_DIR$/mafu-webservice" />
     <file type="web" url="file://$PROJECT_DIR$/mafu-zk" />
@@ -18,6 +19,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/mafu-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mafu-webservice/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
       </set>
     </option>

@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="mafu-webservice:war">
     <output-path>$PROJECT_DIR$/mafu-webservice/target</output-path>
-    <root id="archive" name="mafu-webservice.war">
+    <root id="archive" name="mafu-webservice-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="mafu-webservice:war exploded" />
     </root>
   </artifact>

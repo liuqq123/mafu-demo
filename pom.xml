@@ -14,7 +14,7 @@
         <module>mafu-java</module>
         <module>mafu-zk</module>
         <module>mafu-www</module>
-        <module>mafu-webservice</module>
+        <module>mafu-spring</module>
     </modules>
     <packaging>pom</packaging>
 

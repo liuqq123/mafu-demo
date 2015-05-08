@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/mafu-java/mafu-java.iml" filepath="$PROJECT_DIR$/mafu-java/mafu-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/mafu-js/mafu-js.iml" filepath="$PROJECT_DIR$/mafu-js/mafu-js.iml" />
       <module fileurl="file://$PROJECT_DIR$/mafu-parent/mafu-parent.iml" filepath="$PROJECT_DIR$/mafu-parent/mafu-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mafu-webservice/mafu-webservice.iml" filepath="$PROJECT_DIR$/mafu-webservice/mafu-webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mafu-spring/mafu-spring.iml" filepath="$PROJECT_DIR$/mafu-spring/mafu-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/mafu-www/mafu-www.iml" filepath="$PROJECT_DIR$/mafu-www/mafu-www.iml" />
       <module fileurl="file://$PROJECT_DIR$/mafu-zk/mafu-zk.iml" filepath="$PROJECT_DIR$/mafu-zk/mafu-zk.iml" />
     </modules>

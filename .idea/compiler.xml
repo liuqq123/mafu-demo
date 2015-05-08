@@ -25,8 +25,19 @@
         <module name="mafu-design" />
         <module name="mafu-java" />
         <module name="mafu-js" />
+        <module name="mafu-webservice" />
+        <module name="mafu-www" />
         <module name="mafu-zk" />
+        <module name="untitled" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="mafu-design" target="1.8" />
+      <module name="mafu-java" target="1.8" />
+      <module name="mafu-js" target="1.8" />
+      <module name="mafu-webservice" target="1.8" />
+      <module name="mafu-www" target="1.8" />
+      <module name="mafu-zk" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

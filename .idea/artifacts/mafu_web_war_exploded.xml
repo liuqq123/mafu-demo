@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mafu-web:war exploded">
+    <output-path>$PROJECT_DIR$/mafu-web/target/mafu-web-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mafu-web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:org.springframework.context:3.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:org.springframework.aop:3.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aopalliance:com.springsource.org.aopalliance:1.0.0" />
+          <element id="library" level="project" name="Maven: org.springframework:org.springframework.context.support:3.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.commons:com.springsource.org.apache.commons.logging:1.1.1" />
+          <element id="library" level="project" name="Maven: org.springframework:org.springframework.core:3.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:org.springframework.beans:3.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:org.springframework.web:3.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:org.springframework.oxm:3.2.5.RELEASE" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:\liuqq\workspace\projects-idea\mafu-demo\mafu-web\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="mafu-web/web/Web" />
+    </root>
+  </artifact>
+</component>

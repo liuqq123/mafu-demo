@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mafu-web:war">
+    <output-path>$PROJECT_DIR$/mafu-web/target</output-path>
+    <root id="archive" name="mafu-web.war">
+      <element id="artifact" artifact-name="mafu-web:war exploded" />
+    </root>
+  </artifact>
+</component>

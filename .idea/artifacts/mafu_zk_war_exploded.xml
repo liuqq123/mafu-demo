@@ -15,7 +15,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="E:\workspace\project2015\mafu-demo\mafu-zk\target/MANIFEST.MF" />
+        <element id="file-copy" path="E:\liuqq\workspace\projects-idea\mafu-demo\mafu-zk\target/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="mafu-zk/web/Web" />
     </root>

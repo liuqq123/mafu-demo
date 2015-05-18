@@ -2,38 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="235d2bda-5c53-4016-bb87-1da19feb2afa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mafu-spring/src/main/java/com/mafu/spring/controller/StudentController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/demo_spring_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/demo_spring_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/mafu_spring_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/mafu_spring_war_exploded.xml" />
-      <change type="DELETED" beforePath="E:\workspace\project2015\mafu-demo\mafu-webservice\pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\project2015\mafu-demo\mafu-webservice\src\main\java\com\mafu\controller\StudentController.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\project2015\mafu-demo\mafu-webservice\src\main\resources\config\applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\project2015\mafu-demo\mafu-webservice\web\WEB-INF\dispatcher-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\project2015\mafu-demo\mafu-webservice\web\WEB-INF\web.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\project2015\mafu-demo\mafu-webservice\web\index.jsp" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mafu-js/web/js/object-2.js" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__com_google_guava_guava_17_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__commons_fileupload_commons_fileupload_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_aopalliance_com_springsource_org_aopalliance_1_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_apache_commons_com_springsource_org_apache_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_beanshell_bsh_2_0b4.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_org_springframework_aop_3_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_org_springframework_beans_3_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_org_springframework_context_3_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_org_springframework_context_support_3_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_org_springframework_core_3_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_org_springframework_oxm_3_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_org_springframework_web_3_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_aop_3_2_12_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_aop_3_2_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_beans_3_2_12_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_beans_3_2_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_beans_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_context_3_2_12_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_context_3_2_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_context_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_context_support_3_2_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_context_support_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_context_support_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_core_3_2_12_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_core_3_2_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_core_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_expression_3_2_12_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_expression_3_2_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_web_3_2_12_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_web_3_2_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_webmvc_3_2_12_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_webmvc_3_2_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_webmvc_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_zkoss_common_zcommon_6_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_zkoss_common_zel_6_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_zkoss_common_zweb_6_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_zkoss_zk_zhtml_6_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_zkoss_zk_zk_6_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_zkoss_zk_zkbind_6_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_zkoss_zk_zkplus_6_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\.idea\libraries\Maven__org_zkoss_zk_zul_6_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\mafu-spring\mafu-spring.iml" afterPath="" />
+      <change type="DELETED" beforePath="E:\liuqq\workspace\projects-idea\mafu-demo\mafu-spring\src\main\java\com\mafu\spring\controller\StudentController.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/mafu_webservice_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/mafu_webservice_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/mafu_webservice_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/mafu_webservice_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mafu-js/web/index.html" afterPath="$PROJECT_DIR$/mafu-js/web/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/mafu_zk_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/mafu_zk_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mafu-js/web/js/object.js" afterPath="$PROJECT_DIR$/mafu-js/web/js/object.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mafu-parent/pom.xml" afterPath="$PROJECT_DIR$/mafu-parent/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\workspace\project2015\mafu-demo\mafu-webservice\mafu-webservice.iml" afterPath="$PROJECT_DIR$/mafu-spring/mafu-spring.iml" />
     </list>
     <ignored path="mafu-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,9 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mafu-design/src/test/java/com/mafu/design/factory/SenderFactoryTest.java" />
-        <option value="$PROJECT_DIR$/mafu-design/src/main/java/com/mafu/design/factory/readme.md" />
-        <option value="$PROJECT_DIR$/mafu-design/src/main/java/com/mafu/design/factory/Provider.java" />
         <option value="$PROJECT_DIR$/mafu-design/src/main/java/com/mafu/design/singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/mafu-design/src/main/java/com/mafu/design/prototype/Prototype.java" />
         <option value="$PROJECT_DIR$/mafu-design/src/main/java/com/mafu/design/adapter/Source.java" />
@@ -96,7 +126,6 @@
         <option value="$PROJECT_DIR$/mafu-design/src/main/java/com/mafu/design/decorator/Decorator.java" />
         <option value="$PROJECT_DIR$/mafu-design/src/test/java/com/mafu/design/decorator/DecoratorTest.java" />
         <option value="$PROJECT_DIR$/mafu-js/web/js/jquery-example.js" />
-        <option value="$PROJECT_DIR$/mafu-js/web/index.html" />
         <option value="$PROJECT_DIR$/mafu-js/web/js/example/jquery-example.js" />
         <option value="$PROJECT_DIR$/mafu-js/web/html/seletor.html" />
         <option value="$PROJECT_DIR$/mafu-js/web/js/example/seletor.js" />
@@ -123,12 +152,16 @@
         <option value="$PROJECT_DIR$/mafu-webservice/web/WEB-INF/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/mafu-webservice/src/main/java/com/mafu/controller/StudentController.java" />
         <option value="$PROJECT_DIR$/mafu-webservice/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/mafu-spring/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/mafu-spring/web/WEB-INF/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/mafu-spring/pom.xml" />
         <option value="$PROJECT_DIR$/mafu-spring/src/main/java/com/mafu/spring/controller/StudentController.java" />
         <option value="$PROJECT_DIR$/mafu-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mafu-js/web/js/Object2.css" />
+        <option value="$PROJECT_DIR$/mafu-js/web/index.html" />
+        <option value="$PROJECT_DIR$/mafu-js/web/js/object.js" />
+        <option value="$PROJECT_DIR$/mafu-js/web/js/object-2.js" />
       </list>
     </option>
   </component>
@@ -163,7 +196,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="mafu-spring" />
+          <option name="myItemId" value="mafu-base" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -173,7 +206,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="mafu-spring" />
+          <option name="myItemId" value="mafu-base" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -233,6 +266,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -254,7 +288,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,10 +298,10 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.49482164" />
     <property name="OverrideImplement.combined" value="true" />
@@ -280,6 +313,8 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -878,6 +913,11 @@
       <workItem from="1431068520215" duration="5002000" />
       <workItem from="1431092366913" duration="4922000" />
       <workItem from="1431098702952" duration="2415000" />
+      <workItem from="1431148925601" duration="246000" />
+      <workItem from="1431432864514" duration="3514000" />
+      <workItem from="1431677504578" duration="5652000" />
+      <workItem from="1431740276367" duration="1842000" />
+      <workItem from="1431742170232" duration="4401000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式代码">
       <created>1429259356415</created>
@@ -943,42 +983,42 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85365000" />
+    <option name="totallyTimeSpent" value="101020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32683983" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24810892" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3517398" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32636657" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42282957" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2753404" sideWeight="0.49919742" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5955056" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32683983" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42375603" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2753404" sideWeight="0.49919742" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27609682" sideWeight="0.5008026" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5955056" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout>
@@ -1051,6 +1091,50 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/object-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="738">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1872">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mafu-js/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="288">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/object-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mafu-js/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="288">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mafu-design/src/main/java/com/mafu/design/decorator/Source.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
@@ -1076,69 +1160,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46735394" vertical-offset="0" max-vertical-offset="582">
           <caret line="17" column="5" selection-start-line="15" selection-start-column="26" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40336135" vertical-offset="0" max-vertical-offset="595">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3642732" vertical-offset="0" max-vertical-offset="571">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/lib/jquery/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="164832">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="512">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/example/jquery-example.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/example/selector.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11111111" vertical-offset="1790" max-vertical-offset="2464">
-          <caret line="118" column="16" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/html/event.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.666667" vertical-offset="0" max-vertical-offset="304">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/html/selector.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6070175" vertical-offset="310" max-vertical-offset="880">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/example/event.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.107744105" vertical-offset="0" max-vertical-offset="594">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1188,55 +1209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27538726" vertical-offset="0" max-vertical-offset="581">
           <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/lib/ui-bootstrap/modal/modal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44061962" vertical-offset="0" max-vertical-offset="7744">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/example/angular/NgBootstrapModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2962963" vertical-offset="0" max-vertical-offset="594">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/lib/ui-bootstrap/template/modal/backdrop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14035088" vertical-offset="0" max-vertical-offset="570">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/html/angular/modal-tmp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14035088" vertical-offset="0" max-vertical-offset="570">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/lib/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49569708" vertical-offset="0" max-vertical-offset="25584">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/example/angular/modal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.605852" vertical-offset="0" max-vertical-offset="736">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-js/web/html/angular/modal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47719297" vertical-offset="0" max-vertical-offset="570">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1303,34 +1275,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4040404" vertical-offset="0" max-vertical-offset="594">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mafu-www/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.107744105" vertical-offset="0" max-vertical-offset="594">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-spring/src/main/resources/properties/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-spring/src/main/resources/config/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1362,59 +1310,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-spring/mafu-spring.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32323232" vertical-offset="0" max-vertical-offset="752">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-spring/web/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6906475" vertical-offset="0" max-vertical-offset="816">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-spring/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35016835" vertical-offset="0" max-vertical-offset="594">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-spring/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32659933" vertical-offset="286" max-vertical-offset="1216">
-          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mafu-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21548821" vertical-offset="0" max-vertical-offset="4064">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mafu-js/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12413793" vertical-offset="0" max-vertical-offset="580">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-spring/src/main/java/com/mafu/spring/controller/HomeController.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32323232" vertical-offset="0" max-vertical-offset="594">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.12413793" vertical-offset="0" max-vertical-offset="580">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mafu-spring/src/main/java/com/mafu/spring/controller/StudentController.java">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2962963" vertical-offset="0" max-vertical-offset="594">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.3322091" vertical-offset="1117" max-vertical-offset="16884">
+          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1214166" vertical-offset="1063" max-vertical-offset="1872">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mafu-js/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0952381" vertical-offset="0" max-vertical-offset="567">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mafu-js/web/js/object-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48397976" vertical-offset="649" max-vertical-offset="1332">
+          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1461,7 +1408,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1478,6 +1425,7 @@
             <option name="proportions">
               <list>
                 <option value="0.49482164" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

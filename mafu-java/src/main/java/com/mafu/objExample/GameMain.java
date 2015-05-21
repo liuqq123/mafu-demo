@@ -7,7 +7,5 @@ public class GameMain {
     public static void main(String[] args) {
         GuessGame guessGame = new GuessGame();
         guessGame.startGame();
-
-        byte x = 3;
     }
 }

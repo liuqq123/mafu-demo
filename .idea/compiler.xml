@@ -25,6 +25,8 @@
         <module name="demo-spring" />
         <module name="mafu-design" />
         <module name="mafu-java" />
+        <module name="mafu-orm" />
+        <module name="mafu-spring" />
         <module name="mafu-www" />
         <module name="mafu-zk" />
         <module name="untitled" />
@@ -35,6 +37,7 @@
       <module name="mafu-design" target="1.8" />
       <module name="mafu-java" target="1.8" />
       <module name="mafu-js" target="1.8" />
+      <module name="mafu-orm" target="1.8" />
       <module name="mafu-spring" target="1.8" />
       <module name="mafu-webservice" target="1.8" />
       <module name="mafu-www" target="1.8" />

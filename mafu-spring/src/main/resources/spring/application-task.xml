@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- Timer 创建TimerTask-->
+    <!--<bean id="methodInvokingTask" class="org.springframework.scheduling.timer.MethodInvokingTimerTaskFactoryBean">
+        <property name="targetObject" ref="jPrint"/>
+        <property name="targetMethod" value="printNumber"/>
+    </bean>
+
+    <bean id="jPrint" class="com.mafu.job.JPrint">
+
+    </bean>
+
+    &lt;!&ndash; TimerTask 调度策略&ndash;&gt;
+    <bean id="scheduledTask" class="org.springframework.scheduling.timer.ScheduledTimerTask">
+        &lt;!&ndash;延迟&ndash;&gt;
+        <property name="delay" value="1000"/>
+        &lt;!&ndash;间隔&ndash;&gt;
+        <property name="period" value="1000"/>
+        <property name="timerTask" ref="methodInvokingTask"/>
+    </bean>
+
+    &lt;!&ndash;预定任务&ndash;&gt;
+    <bean id="timerFactory" class="org.springframework.scheduling.timer.TimerFactoryBean">
+        <property name="scheduledTimerTasks">
+            <list>
+                <ref local="scheduledTask"/>
+            </list>
+        </property>
+    </bean>-->
+
+    <!--quartz-->
+    <!--调度器-->
+    <bean id="quartz" class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+        <property name="triggers">
+            <list>
+                <ref bean="myJobTrigger"/>
+            </list>
+        </property>
+    </bean>
+    <!--触发器-->
+    <bean id="myJobTrigger" class="org.springframework.scheduling.quartz.CronTriggerFactoryBean">
+        <property name="jobDetail" ref="myJobDetail"/>
+        <property name="cronExpression" value="0/1 * * * * ?"/>
+    </bean>
+    <!--任务-->
+    <bean id="myJobDetail" class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+        <property name="targetObject" ref="myJob"/>
+        <property name="targetMethod" value="doWork"/>
+        <property name="concurrent" value="true"/>
+    </bean>
+
+    <bean id="myJob" class="com.mafu.job.MyJob">
+
+    </bean>
+
+
+</beans>

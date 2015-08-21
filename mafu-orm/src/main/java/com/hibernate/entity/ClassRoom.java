@@ -1,9 +1,15 @@
 package com.hibernate.entity;
 
+import org.hibernate.annotations.LazyCollection;
+import org.hibernate.annotations.LazyCollectionOption;
+
 import javax.persistence.Basic;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.OneToMany;
 import java.sql.Timestamp;
+import java.util.Date;
+import java.util.Set;
 
 /**
  * @author liuqq
@@ -14,6 +20,17 @@ import java.sql.Timestamp;
 @javax.persistence.Table(name = "class_room", schema = "", catalog = "test")
 public class ClassRoom {
     private int id;
+    private Set<Student> students;
+
+    @OneToMany(mappedBy = "classRoom")
+    @LazyCollection(LazyCollectionOption.EXTRA)
+    public Set<Student> getStudents() {
+        return students;
+    }
+
+    public void setStudents(Set<Student> students) {
+        this.students = students;
+    }
 
     @Id
     @javax.persistence.Column(name = "id")
@@ -37,15 +54,15 @@ public class ClassRoom {
         this.className = className;
     }
 
-    private Timestamp createdTime;
+    private Date createdTime;
 
     @Basic
     @javax.persistence.Column(name = "created_time")
-    public Timestamp getCreatedTime() {
+    public Date getCreatedTime() {
         return createdTime;
     }
 
-    public void setCreatedTime(Timestamp createdTime) {
+    public void setCreatedTime(Date createdTime) {
         this.createdTime = createdTime;
     }
 

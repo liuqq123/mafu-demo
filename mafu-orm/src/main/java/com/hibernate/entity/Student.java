@@ -1,10 +1,8 @@
 package com.hibernate.entity;
 
-import javax.persistence.Basic;
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.sql.Timestamp;
+import java.util.Date;
 
 /**
  * @author liuqq
@@ -15,9 +13,19 @@ import java.sql.Timestamp;
 public class Student {
     private int id;
     private Integer age;
-    private Timestamp createdTime;
+    private Date createdTime;
     private String name;
-    private int classId;
+    private ClassRoom classRoom;
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "class_id")
+    public ClassRoom getClassRoom() {
+        return classRoom;
+    }
+
+    public void setClassRoom(ClassRoom classRoom) {
+        this.classRoom = classRoom;
+    }
 
     @Id
     @Column(name = "id")
@@ -41,11 +49,11 @@ public class Student {
 
     @Basic
     @Column(name = "created_time")
-    public Timestamp getCreatedTime() {
+    public Date getCreatedTime() {
         return createdTime;
     }
 
-    public void setCreatedTime(Timestamp createdTime) {
+    public void setCreatedTime(Date createdTime) {
         this.createdTime = createdTime;
     }
 
@@ -59,15 +67,6 @@ public class Student {
         this.name = name;
     }
 
-    @Basic
-    @Column(name = "class_id")
-    public int getClassId() {
-        return classId;
-    }
-
-    public void setClassId(int classId) {
-        this.classId = classId;
-    }
 
     @Override
     public boolean equals(Object o) {
@@ -76,7 +75,6 @@ public class Student {
 
         Student student = (Student) o;
 
-        if (classId != student.classId) return false;
         if (id != student.id) return false;
         if (age != null ? !age.equals(student.age) : student.age != null) return false;
         if (createdTime != null ? !createdTime.equals(student.createdTime) : student.createdTime != null) return false;
@@ -91,7 +89,6 @@ public class Student {
         result = 31 * result + (age != null ? age.hashCode() : 0);
         result = 31 * result + (createdTime != null ? createdTime.hashCode() : 0);
         result = 31 * result + (name != null ? name.hashCode() : 0);
-        result = 31 * result + classId;
         return result;
     }
 }
